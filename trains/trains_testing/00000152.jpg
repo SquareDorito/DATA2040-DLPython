@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="de"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="de"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="de"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]> <html lang="de"> <![endif]-->
+<head>
+<!-- META
+================================================================================================= -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="robots" content="index, follow"> 
+<meta http-equiv="expires" content="604800"> <!-- Week --> 
+<meta name="language" content="de">
+<meta name="owner" content="Alpha Trains Luxembourg S.à r.l. - www.alphatrains.eu">
+<meta name="author" content="Alpha Trains Luxembourg S.à r.l.">
+<meta name="publisher" content="Alpha Trains Luxembourg S.à r.l.">
+<meta name="copyright" content="Alpha Trains Luxembourg S.à r.l.">
+<meta name="webauthor" content="www.itact.de - itACT-Legien - Webdesign | Grafikdesign | Werbung">
+<meta name="audience" content="alle">
+<meta name="description" content="Seitenladefehler">
+<meta name="keywords" content=", Seitenladefehler">
+<link rel="canonical" href="https://www.alphatrains.eu/err/">
+<!-- Global site tag - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117301725-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-117301725-1');
+</script>
+<title>Seitenladefehler | Alpha Trains</title>
+<!-- Favicons
+================================================================================================= -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.alphatrains.eu/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://www.alphatrains.eu/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.alphatrains.eu/images/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="https://www.alphatrains.eu/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.alphatrains.eu/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://www.alphatrains.eu/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://www.alphatrains.eu/images/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#16996a">
+<meta name="msapplication-TileImage" content="https://www.alphatrains.eu/images/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- CSS
+================================================================================================= --> 
+<link rel="stylesheet" type="text/css" href="/css/css.php?1524559316"> <!-- Styles -->
+<!--[if lt IE 9]>
+	<script>
+	document.createElement('header');
+	document.createElement('nav');
+	document.createElement('section');
+	document.createElement('article');
+	document.createElement('aside');
+	document.createElement('footer');
+	document.createElement('hgroup');
+	</script>
+	<script src="/js/html5shiv.min.js"></script>
+<![endif]-->
+
+<noscript><link rel="stylesheet" type="text/css" href="/css/nojs.css"></noscript>
+
+</head>
+<body >
+<div class="page-wrapper container-fluid">
+<!-- header top start -->
+<div class="header-top">
+<div class="container-fluid" >
+	<noscript>
+		<div class="alert alert-danger">
+			<div class="row">
+				<div class="col-lg-12">	
+					<p class="text-center txt-l strong"><span class="fa fa-exclamation-triangle whitetxt"></span> Sie haben Javascript in Ihrem Browser deaktiviert. Es k&ouml;nnen nicht alle Inhalte dargestellt und Funktionen ausgef&uuml;hrt werden!</p>
+				</div>
+			</div>
+		</div>		
+	</noscript>
+</div>
+</div>
+
+<!-- header top end -->
+<!-- header start -->
+<header class="header">
+	<div class="container padd-big">
+		<div class="row">
+			<div class="col-xs-12 col-sm-5 col-md-4 logocol">
+				<div class="logo text-center noprint"><a href="https://www.alphatrains.eu/de/" ><img class="img-responsive text-center" src="https://www.alphatrains.eu/images/logo/logo_top.png" alt="Alpha Trains Luxembourg S.à r.l."></a></div>
+				<div class="logo text-center hidden yesprint"><img class="img-responsive text-center" src="https://www.alphatrains.eu/images/logo/logo_top_sw.png"></div>
+			</div>
+			<div class="claim hidden-xs col-sm-6 col-sm-offset-1 col-md-5 col-md-offset-3">
+				<!--<p class="h1"><strong class=" whitetxt small-shadow txt-upper">Your business right on track</strong> <span class="fa fa-railway whitetxt"></span></p>-->
+				<div class="logo text-right text-xs-center"><a href="https://www.alphatrains.eu/de/" ><img class="img-responsive " src="https://www.alphatrains.eu/images/logo/logo_claim.png" alt="Your business right on track"></a></div>
+			</div>						
+		</div>
+	</div>
+</header>
+<!-- header end -->
+
+<!-- =================================================
+Menu / Start
+ -->
+<div class="menuetop">
+<nav class="mainmenue" role="navigation">
+<div class="container-fluid">
+	<div class="row">
+	<div class="col-lg-12 padd-big">	
+	<div class="menue style-1 ">
+    <input id="menue_check" type="checkbox">
+    <label for="menue_check" >Men&uuml;</label>
+	
+<ul class="menue">
+	<li class='last right' >
+		<a href='' class='arrow curpointer'>de</a>
+	<div class='mega-menue'>
+	<div class='col-1'>
+	<ol>
+	<li>		<a class='lang activ' href="https://www.alphatrains.eu/de/" target="_self" onclick="var verfall = new Date();verfall.setDate(verfall.getDate() + 91);document.cookie = 'language=de;path=/;expires=' + verfall.toGMTString() + '';">
+		<span class="fa fa-flag-de fa-fw"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> Deutsch (DE)</a></li><li>		<a  href="https://www.alphatrains.eu/en/" target="_self" onclick="var verfall = new Date();verfall.setDate(verfall.getDate() + 91);document.cookie = 'language=en;path=/;expires=' + verfall.toGMTString() + '';">
+		<span class="fa fa-flag-en fa-fw"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span></span> English (EN)</a></li><li>		<a  href="https://www.alphatrains.eu/fr/" target="_self" onclick="var verfall = new Date();verfall.setDate(verfall.getDate() + 91);document.cookie = 'language=fr;path=/;expires=' + verfall.toGMTString() + '';">
+		<span class="fa fa-flag-fr fa-fw"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> Français (FR)</a></li>	</ol></div></div></li>
+	<li class='right last socialmedia hidden-xs hidden-sm'>
+		<a href="https://de.linkedin.com/company/alpha-trains" title="Alpha Trains &rarr; LinkedIn" target="_blank"><span class='fa fa-linkedin-square'></span></a>
+	</li>
+	<li class='right socialmedia hidden-xs hidden-sm'>
+		<a  href="https://twitter.com/AlphaTrains" title="Alpha Trains &rarr; Twitter" target="_blank"><span class='fa fa-twitter-square '></span></a>
+	</li>
+	<li class='right socialmedia hidden-xs hidden-sm'>
+		<a href="https://www.facebook.com/AlphaTrainsGroup/" title="Alpha Trains &rarr; Facebook" target="_blank"><span class='fa fa-facebook-square '></span></a>
+	</li>	
+				<li class="home ">
+			<a class="visible-xs visible-sm" href="https://www.alphatrains.eu/de/"><span class='fa fa-logo fa-fw'></span> Startseite</a>
+			<a class="hidden-md visible-lg homeicon" href="https://www.alphatrains.eu/de/"><span class='fa fa-logo fa-fw'></span> </a>
+			</li>		
+		<li class='first ' ><a href='https://www.alphatrains.eu/de/alphatrains/' class='arrow curpointer'>Alpha Trains</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/alphatrains/aboutus/" ><span class='fa fa-caret-right orangetxt'></span>Über uns</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/alphatrains/why/" ><span class='fa fa-caret-right orangetxt'></span>Warum Alpha Trains</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/alphatrains/values/" ><span class='fa fa-caret-right orangetxt'></span>Mission - Vision - Values</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/alphatrains/management/" ><span class='fa fa-caret-right orangetxt'></span>Management</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/alphatrains/shareholder/" ><span class='fa fa-caret-right orangetxt'></span>Gesellschafter</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/alphatrains/partners/" ><span class='fa fa-caret-right orangetxt'></span>Partner</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/press/' class='arrow curpointer'>News & Presse</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/press/news/" ><span class='fa fa-caret-right orangetxt'></span>Alpha News</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/press/releases/" ><span class='fa fa-caret-right orangetxt'></span>Pressemitteilungen</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/press/gallery/" ><span class='fa fa-caret-right orangetxt'></span>Bildergalerien</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/solutions/' class='arrow curpointer'>Lösungen</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/solutions/overview/" ><span class='fa fa-caret-right orangetxt'></span>Unsere Lösungen</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/solutions/locomotives/" ><span class='fa fa-caret-right orangetxt'></span>Lösungen - Lokomotiven</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/solutions/trains/" ><span class='fa fa-caret-right orangetxt'></span>Lösungen - Züge</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/fleet/' class='arrow curpointer'>Flotte</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/fleet/locomotives/" ><span class='fa fa-caret-right orangetxt'></span>Lokomotiven</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/fleet/locofinder/" ><span class='fa fa-caret-right orangetxt'></span>Lok-Finder</a></li>
+<li class='seperator'><hr class='hr-seperator'></li>
+						<li><a  href="https://www.alphatrains.eu/de/fleet/trains/" ><span class='fa fa-caret-right orangetxt'></span>Personenzüge</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/fleet/trainfinder/" ><span class='fa fa-caret-right orangetxt'></span>Übersicht Züge</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/career/' class='arrow curpointer'>Karriere</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/career/work/" ><span class='fa fa-caret-right orangetxt'></span>Arbeiten bei Alpha Trains</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/career/joboffers/" ><span class='fa fa-caret-right orangetxt'></span>Job-Angebote</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/career/process/" ><span class='fa fa-caret-right orangetxt'></span>Unser Bewerbungsprozess</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/career/people/" ><span class='fa fa-caret-right orangetxt'></span>Ansprechpartner HR</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/investors/' class='arrow curpointer'>Investorenportal</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/investors/login.php" ><span class='fa fa-caret-right orangetxt'></span> <span class='fa fa-unlock-alt fa-fw '></span> Login</a></li>
+<li class='seperator'><hr class='hr-seperator'></li>
+						<li><a  href="https://www.alphatrains.eu/de/investors/register.php" ><span class='fa fa-caret-right orangetxt'></span> <span class='fa fa-user-plus fa-fw '></span> Neuregistrierung</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/investors/forget.php" ><span class='fa fa-caret-right orangetxt'></span> <span class='fa fa-key fa-fw '></span> Passwort vergessen</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first ' ><a href='https://www.alphatrains.eu/de/contact/' class='arrow curpointer'>Kontakt</a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="https://www.alphatrains.eu/de/contact/people/" ><span class='fa fa-caret-right orangetxt'></span>Ansprechpartner</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/contact/locations/" ><span class='fa fa-caret-right orangetxt'></span>Standorte</a></li>
+						<li><a  href="https://www.alphatrains.eu/de/contact/" ><span class='fa fa-caret-right orangetxt'></span>Anfragen</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li><li class='first last right' ><a href='https://www.alphatrains.eu/denone' class='visible-xs visible-sm arrow curpointer'><span class='fa fa-cloud-download fa-fw'></span> DOX</a><a href='https://www.alphatrains.eu/denone' class='visible-md visible-lg arrow curpointer'><span class='fa fa-cloud-download fa-fw'></span> </a>			
+			<div class='mega-menue'><div class='col-2'><ol>						<li><a  href="http://www.alphadox.eu/php/login.php" target='_blank' ><span class='fa fa-caret-right orangetxt'></span> <span class='fa fa-logo fa-fw '></span> Alpha DOX - Dokumentensystem</a></li>
+					</ol>
+				</div>				
+			</div>
+			</li></ul>	
+	
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<!-- Menu / End
+================================================== -->
+
+<!-- slider start -->
+<section class="container-fluid ">
+<div class="row">
+<div class="col-lg-12 padd-big">	
+	<div id="fullimgbg" class="">
+			<div id="fullimg" class="" style="background-image: url('https://www.alphatrains.eu/images/fullimg/error.jpg');" role="banner"></div>
+	</div>
+		
+	</div>
+</div>
+</section>
+<!-- slider end -->
+<div id="main">
+<!-- page intro start -->
+<section class="container-fluid page-intro"> 
+<div class="container">
+	<div class="row ">
+		<div class="col-md-12">
+			<h1 class="page-title">Upps, hier ist etwas schief gelaufen!</h1>
+		</div>
+	</div>
+</div>		
+</section>
+<!-- page intro end -->
+
+<section id="main" role="main" class="pagecontent">
+	<div class="row">
+	<div class="col-md-12 text-center">
+		<div class="page-header">
+			<h2 id="container"><span class='fa fa-warning'></span> Seitenladefehler: 404 Site not Found</h2>
+		</div>		
+		<p>Die angeforderte Ressource bzw. aufgerufene URL konnte leider auf diesem Server nicht gefunden werden.<br>Evtl. hat diese Seite noch keine Inhalte oder ist nicht mehr vorhanden und wurde entfernt.<br><br>Bitte versuchen Sie es erneut&hellip;</p>
+		<hr>
+		<p>
+		<strong><a class="btn btn-primary" href="/de/"><span class='fa fa-mail-reply'></span> &nbsp;zur&uuml;ck zur Startseite &hellip;</a></strong>
+		<br>
+		</p>
+	</div>
+	</div>	
+</section>
+</div>
+
+<footer id="footer">
+<section class="container-fluid jumbo-bg"  > 
+    <div class="row">
+        <div class="jumbotron home cover">
+		<div id="about-bg">
+			<div class="container">
+				<div class="row ">
+								
+					<div class="about-bg-heading">
+						<h1>Passionate about rail</h1>
+						<h2>Unsere Profis sind für Sie da, wenn Sie uns brauchen</h2>
+					</div>				
+					<div class="col-xs-6 col-sm-3 col-md-3">
+						<div class="align-center">
+						<span class="fa-stack fa-4x wow rotateIn">
+							<i class="fa fa-circle-down-arrow fa-circle-shadow fa-stack-2x"></i>
+							<i class="fa fa-users fa-inverse fa-stack-1x"></i>
+						</span>
+						<div class="about-bg-wrapper text-center"><span class="count strong whitetxt">110</span></div>
+						<span class="strong">Mitarbeiter</span>
+						</div>
+					</div>
+					<div class="col-xs-6 col-sm-3 col-md-3">
+						<div class="align-center">
+						<span class="fa-stack fa-4x wow rotateIn">
+							<i class="fa fa-circle-down-arrow fa-circle-shadow fa-stack-2x"></i>
+							<i class="fa fa-comments fa-inverse fa-stack-1x"></i>
+						</span>							
+						<div class="about-bg-wrapper text-center"><span class="count strong whitetxt">16</span></div>
+						<span class="strong">Sprachen</span>
+						</div>
+					</div>
+					<div class="col-xs-6 col-sm-3 col-md-3">
+						<div class="align-center">
+						<span class="fa-stack fa-4x wow rotateIn">
+							<i class="fa fa-circle-down-arrow fa-circle-shadow fa-stack-2x"></i>
+							<i class="fa fa-flag fa-inverse fa-stack-1x"></i>
+						</span>							
+						<div class="about-bg-wrapper text-center"><span class="count strong whitetxt">11</span></div>
+						<span class="strong">Nationen</span>
+						</div>
+					</div>
+					<div class="col-xs-6 col-sm-3 col-md-3">
+						<div class="align-center">
+						<span class="fa-stack fa-4x wow rotateIn">
+							<i class="fa fa-circle-down-arrow fa-circle-shadow fa-stack-2x"></i>
+							<i class="fa fa-map-marker fa-inverse fa-stack-1x"></i>
+						</span>							
+							<div class="about-bg-wrapper text-center"><span class="count strong whitetxt">5</span></div>
+						<span class="strong">Standorte</span>
+						</div>
+					</div>			
+				
+									
+				</div>
+            </div>
+      </div>
+    </div>
+	</div>
+</section>
+
+<section class="container-fluid" id="foot">
+<div class="container">  
+<div class="row">
+	
+
+		<div class="col-xs-12 col-sm-6 col-md-2">
+	<address>
+        <h5><span class="fa fa-map-marker"></span> Luxembourg</h5>
+		<ul class="list-unstyled small">
+			<li><span class='fa fa-logo fa-fw'></span> Alpha Trains Luxembourg S.à r.l.</li>
+			<li><span class='fa fa-home fa-fw'></span> 22, rue Alfred de Musset<br class="hidden-xs hidden-sm"><span class='fa fa-fw hidden-xs hidden-sm'></span><span class='hidden-lg hidden-md'>, </span> 2175 Luxembourg</li>
+			<li><span class='fa fa-phone fa-fw'></span> +352 2620 3113</li>		
+			<li><span class='fa fa-envelope fa-fw'></span> <span id="e707424101">info_at_alphatrains.eu</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"ygrokLh8ZQJn7a.H3z69FIjebX0RwB-GxO4UmV5Cus1+cfAldPqEYSMK2WtT_@NpvDi\";var b=a.split(\"\").sort().join(\"\");var c=\"PMAKasY2ds_tsPMTrf@\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e707424101\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></li>
+		</ul>
+	</address>		
+  	</div>
+		<div class="col-xs-12 col-sm-6 col-md-2">
+	<address>
+        <h5><span class="fa fa-map-marker"></span> Antwerp</h5>
+		<ul class="list-unstyled small">
+			<li><span class='fa fa-logo fa-fw'></span> Alpha Trains Belgium N.V.</li>
+			<li><span class='fa fa-home fa-fw'></span> Leon Stynenstraat 75A<br class="hidden-xs hidden-sm"><span class='fa fa-fw hidden-xs hidden-sm'></span><span class='hidden-lg hidden-md'>, </span> 2000 Antwerp</li>
+			<li><span class='fa fa-phone fa-fw'></span> +32 3 808 76 00</li>		
+			<li><span class='fa fa-envelope fa-fw'></span> <span id="e649996262">locomotives_at_alphatrains.eu</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"0bwHf+1Vhkp4Fe2n6KS.a@oO5zqMv7X-YxyQjlWd_r8ELZUGTIRBAcisDCNtJm93gPu\";var b=a.split(\"\").sort().join(\"\");var c=\"AsEscsJI9ZterADTrJNrIitwZm\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e649996262\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></li>
+		</ul>
+	</address>		
+  	</div>
+		<div class="col-xs-12 col-sm-6 col-md-2">
+	<address>
+        <h5><span class="fa fa-map-marker"></span> Cologne</h5>
+		<ul class="list-unstyled small">
+			<li><span class='fa fa-logo fa-fw'></span> Alpha Trains Europa GmbH</li>
+			<li><span class='fa fa-home fa-fw'></span> Cäcilienstr. 30<br class="hidden-xs hidden-sm"><span class='fa fa-fw hidden-xs hidden-sm'></span><span class='hidden-lg hidden-md'>, </span> 50667 Cologne</li>
+			<li><span class='fa fa-phone fa-fw'></span> +49 221 91 40 90 00</li>		
+			<li><span class='fa fa-envelope fa-fw'></span> <span id="e94133112">info_at_alphatrains.eu</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"0O_tZBYLHe@fsj2xqXIrQUvzl.noaTKdMyCSk7D-J+GFEVh6gPic95Ab14wuWN3pm8R\";var b=a.split(\"\").sort().join(\"\");var c=\"PAhbj+91g+Ww+PAu_VN\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e94133112\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></li>
+		</ul>
+	</address>		
+  	</div>
+		<div class="col-xs-12 col-sm-6 col-md-2">
+	<address>
+        <h5><span class="fa fa-map-marker"></span> Paris</h5>
+		<ul class="list-unstyled small">
+			<li><span class='fa fa-logo fa-fw'></span> Alpha Trains France SAS</li>
+			<li><span class='fa fa-home fa-fw'></span> 15-17 rue Scribe<br class="hidden-xs hidden-sm"><span class='fa fa-fw hidden-xs hidden-sm'></span><span class='hidden-lg hidden-md'>, </span> 75009 Paris</li>
+			<li><span class='fa fa-phone fa-fw'></span> +33 1 86 26 18 24</li>		
+			<li><span class='fa fa-envelope fa-fw'></span> <span id="e944426185">info_at_alphatrains.eu</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"fkGigy6xVc0Qp4XJ73w28dHAnY.WvKULMIoSZt-59mualR1D_@FjhsOEPBbe+zCqNTr\";var b=a.split(\"\").sort().join(\"\");var c=\"@O1E4mhP_m+bm@OeGRz\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e944426185\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></li>
+		</ul>
+	</address>		
+  	</div>
+		<div class="col-xs-12 col-sm-6 col-md-2">
+	<address>
+        <h5><span class="fa fa-map-marker"></span> Madrid</h5>
+		<ul class="list-unstyled small">
+			<li><span class='fa fa-logo fa-fw'></span> Alpha Trains Iberia S.A.</li>
+			<li><span class='fa fa-home fa-fw'></span> López de Hoyos, 35, 1st Floor<br class="hidden-xs hidden-sm"><span class='fa fa-fw hidden-xs hidden-sm'></span><span class='hidden-lg hidden-md'>, </span> 28002 Madrid</li>
+			<li><span class='fa fa-phone fa-fw'></span> +34 91 7457424</li>		
+			<li><span class='fa fa-envelope fa-fw'></span> <span id="e520472214">info_at_alphatrains.eu</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"ixozP-sR7GfOqrScg5I8K1@lNUWFmDbe_69AZHVuBt3XjYhaML+yJvEwC.Qd4p20nkT\";var b=a.split(\"\").sort().join(\"\");var c=\"LEhwrtJCMt4QtLEdoYp\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e520472214\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script></li>
+		</ul>
+	</address>		
+  	</div>
+		<div class="col-xs-12 col-sm-12 col-md-2 ">
+		<hr class="hr-half visible-xs visible-sm">
+		<h5><span class='fa fa-comments'></span> Support</h5> 
+		<p class="small">
+		Bei Fragen zu unseren Angeboten oder Dienstleistungen hilft Ihnen unser Team gerne weiter. Hier finden Sie europaweit den richtigen <a href='/de/contact/people/'><span class='nowrap'><span class='fa fa-users'></span> <strong>Ansprechpartner</strong></span></a> für Ihr Anliegen.		</p>	
+	</div>  
+</div>
+<hr class="hr-half">
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-8 text-left text-xs-center">	
+			
+		
+		<ul class="list-inline text-left small">
+		<li>T&Uuml;V-Zertifiziert f&uuml;r den Gesch&auml;ftsbereich Personenz&uuml;ge nach DIN EN ISO 9001:2015</li><br><li>&copy; Copyright 2000 - 2018&nbsp;&nbsp;<a href='https://www.alphatrains.eu/de/' target='_self'>Alpha Trains Luxembourg S.à r.l.</a></li><li>|</li><li><a href='https://www.alphatrains.eu/de/contact/people/' >Ansprechpartner</a></li><li>|</li><li><a href='https://www.alphatrains.eu/de/contact/locations/' >Standorte</a></li><li>|</li><li><a href='https://www.alphatrains.eu/de/contact/' >Anfragen</a></li><li>|</li><li><a href='https://www.alphatrains.eu/de/contact/imprint/' >Impressum</a></li><li>|</li><li><a href='https://www.alphatrains.eu/de/contact/disclaimer/' >Datenschutz & Haftungsausschluss</a></li>	
+		</ul> 
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-4 noprint">	
+	<hr class="hr-half visible-xs visible-sm"> 
+	<div class="text-right text-xs-center text-sm-center">
+	<ul class="social-networks">
+		<li><a href="https://www.alphatrains.eu/de/contact/" title="Alpha Trains &rarr; eMail" target="_self"><i class="icon-circled icon-bggreen icon icon-2x fa fa-envelope "></i></a></li>
+		<li><a href="https://www.facebook.com/AlphaTrainsGroup/" title="Alpha Trains &rarr; Facebook" target="_blank"><i class="icon-circled icon-bggreen icon icon-2x fa fa-facebook fa-2x"></i></a></li>
+		<li><a href="https://twitter.com/AlphaTrains" title="Alpha Trains &rarr; Twitter" target="_blank"><i class="icon-circled icon-bggreen icon icon-2x fa fa-twitter fa-2x"></i></a></li>
+		<li><a href="https://de.linkedin.com/company/alpha-trains" title="Alpha Trains &rarr; LinkedIn" target="_blank"><i class="icon-circled icon-bggreen icon icon-2x fa fa-linkedin fa-2x"></i></a></li>
+	</ul>
+	</div>
+</div>
+</div>
+</div>
+</section>
+</footer>
+
+<!-- Scroll-Button begins -->
+<span class="scrolltotop"><a href="#" title="Zum Seitenanfang"><span class="fa fa-alpha-angle-double-up text-shadow-glow"></span></a></span> 
+<!-- Scroll-Button end -->	
+
+<!-- Java-Scripts at the end
+================================================================================================= -->
+<script type="text/javascript" src="/js/libs/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/js.php?1524559316" charset="utf-8"></script>
+<!-- Hinweis: Nutzung von Cookies
+================================================================================================= -->
+<div class="container-fluid" id="cookieNotice">
+<span>Diese Webseite verwendet Cookies. Durch die Nutzung unserer Webseite stimmen Sie der Verwendung von Cookies zu </span> &raquo; <a href='/de/contact/disclaimer/#main'> <span class='fa fa-info-circle'></span> Datenschutzinfos</a> &laquo;
+<span title="Cookie-Hinweis schlie&szlig;en und zustimmen!" id="cookieNoticeCloser" style="display:none" onclick="var verfall = new Date();verfall.setDate(verfall.getDate() + 91);document.cookie = 'hideCookieNotice=1;path=/;expires=' + verfall.toGMTString() + '';jQuery('#cookieNotice').slideUp();">[X]</span>
+</div>
+<script type="text/javascript" src="/js/cookieaccept.js" charset="utf-8"></script>
+
+<!-- Hinweis: Aktueller Browser
+================================================================================================= -->
+<div id="browserNotice" style="display:none">
+<span><span class="fa fa-warning whitetxt"></span> Achtung! Sie verwenden einen veralteten bzw. nicht kompatiblen Browser. Nutzen Sie bitte einen aktuellen Browser, um diese Webseite korrekt darzustellen!</span>
+</div>
+
+<!-- Custom Java-Scripte
+================================================================================================= -->
+<script type="text/javascript" src="/js/custom.min.js?1524559316" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+//Check HTML5/CSS3 Browser support
+function isIE( version, comparison ){
+    var $div = $('<div style="display:none;"/>').appendTo($('body'));
+    $div.html('<!--[if '+(comparison||'')+' IE '+(version||'')+']><a>&nbsp;</a><![endif]-->');
+    var ieTest = $div.find('a').length;
+    $div.remove();
+    return ieTest;
+};
+var test_canvas = document.createElement("canvas") 
+var canvascheck=(test_canvas.getContext)? true : false 
+if(isIE(8,'lte') || canvascheck==false){     
+	$('#browserNotice').prependTo('body');
+    $('#browserNotice').show(); 
+}
+</script>
+<script type="text/javascript" >new WOW().init();</script></div>
+</body>
+</html>
