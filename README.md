@@ -11,7 +11,7 @@ Medium Blog Post Link: https://medium.com/training-convnet-on-small-binary-class
 
 Relevant Notebooks: p2-category_yelp.ipynb, p2-binary_yelp.ipynb
 
-### Mini Project 3: TBD
+### Mini Project 3: Neural Style Transfer with VGG16, VGG19, and ResNet50
 Medium Blog Post Link: https://medium.com/training-convnet-on-small-binary-classified/image-style-transfer-using-pre-trained-convnets-1c750c0cb458
 
 Relevant Notebooks: p3-neural_style_transfer.ipynb
