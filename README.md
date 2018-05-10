@@ -3,12 +3,15 @@
 ### Mini Project 1: Using ConvNets to Distinguish Trains vs. Cars
 
 Medium Blog Post Link: https://medium.com/training-convnet-on-small-binary-classified/training-a-convnet-with-limited-image-data-59b7f36e281a
+Relevant Notebooks: p1-ConvNets_trains_vs_cars.ipynb
 
 ### Mini Project 2: NLP with Embedding and RNN's using the Yelp Dataset
 Medium Blog Post Link: https://medium.com/training-convnet-on-small-binary-classified/using-word-embeddings-and-recurrent-neural-networks-to-predict-rating-scores-from-text-93ba0a48bf82
+Relevant Notebooks: p2-category_yelp.ipynb, p2-binary_yelp.ipynb
 
 ### Mini Project 3: TBD
-Medium Blog Post Link: TBD
+Medium Blog Post Link: https://medium.com/training-convnet-on-small-binary-classified/image-style-transfer-using-pre-trained-convnets-1c750c0cb458
+Relevant Notebooks: p3-neural_style_transfer.ipynb
 
 ### Additional Info
 
